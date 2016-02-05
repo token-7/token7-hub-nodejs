@@ -1,2 +1,2 @@
-# token7-interhub-nodejs
-Interhub  (Node.js)
+# token7-hub-nodejs
+Hub  (Node.js)
